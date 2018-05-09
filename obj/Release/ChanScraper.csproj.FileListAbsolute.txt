@@ -1,0 +1,13 @@
+C:\Users\tyler\source\repos\ChanScraper\ChanScraper\bin\Release\ChanScraper.exe.config
+C:\Users\tyler\source\repos\ChanScraper\ChanScraper\bin\Release\ChanScraper.exe
+C:\Users\tyler\source\repos\ChanScraper\ChanScraper\bin\Release\ChanScraper.pdb
+C:\Users\tyler\source\repos\ChanScraper\ChanScraper\bin\Release\AngleSharp.dll
+C:\Users\tyler\source\repos\ChanScraper\ChanScraper\bin\Release\AngleSharp.xml
+C:\Users\tyler\source\repos\ChanScraper\ChanScraper\obj\Release\ChanScraper.csprojResolveAssemblyReference.cache
+C:\Users\tyler\source\repos\ChanScraper\ChanScraper\obj\Release\ChanScraper.ProgramGUI.resources
+C:\Users\tyler\source\repos\ChanScraper\ChanScraper\obj\Release\ChanScraper.Properties.Resources.resources
+C:\Users\tyler\source\repos\ChanScraper\ChanScraper\obj\Release\ChanScraper.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\ChanScraper\ChanScraper\obj\Release\ChanScraper.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\ChanScraper\ChanScraper\obj\Release\ChanScraper.csproj.CopyComplete
+C:\Users\tyler\source\repos\ChanScraper\ChanScraper\obj\Release\ChanScraper.exe
+C:\Users\tyler\source\repos\ChanScraper\ChanScraper\obj\Release\ChanScraper.pdb
